@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">通知メモ</string>
+    <string name="action_settings">使い方</string>
+    <string name="action_rev">レビューする</string>
+    <string name="action_other">開発者の他のアプリ</string>
+    <string name="action_delete_history">入力履歴の削除</string>
+    <string name="hint_memo">新しいメモ</string>
+    <string name="history">履歴</string>
+    <string name="notification">通知バーにメモ</string>
+    <string name="action_remind">解除</string>
+    <string name="action_delete">削除</string>
+    <string name="cancel_notify">解除</string>
+    <string name="notify">通知</string>
+    <string name="msg_delete_history">入力履歴を削除しますか？</string>
+    <string name="notify_description">この通知の詳細情報を設定します</string>
+    <string name="channel_id">reminder</string>
+    <string name="action_delete_memo">メモの削除</string>
+    <string name="msg_delete_memo">「 %1$s 」を削除しますか？</string>
+    <string name="action_update_memo">メモの更新</string>
+    <string name="hint_memo_update">メモ</string>
+    <string name="action_export">エクスポート</string>
+    <string name="action_import">インポート</string>
+    <string name="msg_import_memo">改行区切りで入力してください</string>
+    <string name="menu">メニュー</string>
+    <string name="action_about">このアプリについて</string>
+    <string name="action_license">オープンソースライセンス</string>
+    <string name="version_app">バージョン</string>
+</resources>

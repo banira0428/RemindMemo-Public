@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:key="setting_other"
+        app:title="@string/action_about">
+
+        <Preference
+            app:key="other_apps"
+            app:title="@string/action_other">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/store/apps/developer?id=ke-ta" />
+        </Preference>
+
+        <Preference
+            app:key="license"
+            app:title="@string/action_license">
+        </Preference>
+
+        <Preference
+            app:key="version"
+            app:title="@string/version_app">
+        </Preference>
+
+    </PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>
